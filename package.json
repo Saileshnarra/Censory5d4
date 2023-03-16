@@ -1,0 +1,15 @@
+{
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "Censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Saileshnarra/Censory5d4"
+    },
+    "keywords": ["censorify","Censory5d4" ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+}
